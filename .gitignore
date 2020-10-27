@@ -1,0 +1,6 @@
+env
+db.sqlite3
+app/DjangoOne/settings.py
+.env.dev
+#app/static/js
+app/entrypoint.sh
